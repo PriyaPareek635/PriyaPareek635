@@ -1,6 +1,5 @@
 # ReadMe
 
-### Hi there 👋
  
 <p align="center">
   <h2 align="center"><samp>Hi there 👋</samp></h2>
