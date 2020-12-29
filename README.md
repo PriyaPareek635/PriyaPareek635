@@ -19,7 +19,9 @@
     ·
     <a href="https://www.linkedin.com/in/priya-pareek-9b9089153/">LinkedIn</a>
     .
-    <a href="https://techsavvypriya.wordpress.com//"c>Blog</a>
+    <a href="https://techsavvypriya.wordpress.com/">Blog</a>
+   .
+   <a href="https://priyapareek635.github.io/My_Resume/">Resume</a>
   </samp>
 </p>
 
