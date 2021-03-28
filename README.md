@@ -41,23 +41,6 @@
 
 - ⚡ Fun fact **I think I am super excited and curious also.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: priyapareek/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "http://techsavvypriya.wordpress.com/"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -78,6 +61,6 @@ jobs:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyapareek635&show_icons=true&locale=en&layout=compact" alt="priyapareek635" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyapareek635&show_icons=true&locale=en" alt="priyapareek635" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=priyapareek635&show_icons=true&locale=en" alt="priyapareek635" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyapareek635&" alt="priyapareek635" /></p>
