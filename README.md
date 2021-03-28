@@ -22,10 +22,7 @@
    .
    <a href="https://priyapareek635.github.io/My_Resume/">Resume</a>
   </samp>
-</p>
-
-<br>
-
+</p><br>
 
 - 🌱 I’m currently learning **Angular and React**
 
@@ -55,7 +52,7 @@
 <a href="https://www.leetcode.com/priyapareek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="priyapareek" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@priya669" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@priya669" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/priyapareek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="priyapareek" height="30" width="40" /></a>
-</p> <br><br>
+</p> <br>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/priyapareek"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="priyapareek" /></a></p>
+<h3 align="center">Support:</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/priyapareek"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="priyapareek" /></a></p>
