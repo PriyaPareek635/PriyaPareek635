@@ -24,7 +24,7 @@
   </samp>
 </p>
 
-
+<br>
 - 🌱 I’m currently learning **Angular and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PriyaPareek635](https://github.com/PriyaPareek635)
@@ -42,6 +42,20 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+name: Latest blog post workflow
+on: 
+    schedule:
+        - cron: '0 * * * *'
+jobs: 
+    update-readme-with-blog: 
+        name: Update this repo's README with latest blog posts
+        runs-on: ubuntu-latest
+        steps: 
+            - uses: actions/checkout@v2
+            - uses: priyapareek/blog-post-workflow@master
+              with: 
+                max_post_count: "4"
+                feed_list: "http://techsavvypriya.wordpress.com/"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
