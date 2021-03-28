@@ -54,5 +54,5 @@
 <a href="https://auth.geeksforgeeks.org/user/priyapareek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="priyapareek" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/priyapareek"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="priyapareek" /></a></p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/priyapareek"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="priyapareek" /></a></p>
