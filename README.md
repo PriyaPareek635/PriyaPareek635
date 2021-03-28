@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **Angular and React**
 
-- 👨‍💻 All of my projects are available at [https://priyapareek635.github.io/Portfolio/](https://priyapareek635.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/PriyaPareek635](https://github.com/PriyaPareek635)
 
 - 📝 I regularly write articles on [http://techsavvypriya.wordpress.com/](http://techsavvypriya.wordpress.com/)
 
