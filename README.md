@@ -25,6 +25,8 @@
 </p>
 
 <br>
+
+
 - 🌱 I’m currently learning **Angular and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PriyaPareek635](https://github.com/PriyaPareek635)
