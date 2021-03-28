@@ -63,4 +63,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=priyapareek635&show_icons=true&locale=en" alt="priyapareek635" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyapareek635&" alt="priyapareek635" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=priyapareek635&" alt="priyapareek635" /></p>
