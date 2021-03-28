@@ -59,8 +59,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/priyapareek"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="priyapareek" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyapareek635&show_icons=true&locale=en&layout=compact" alt="priyapareek635" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyapareek635&show_icons=true&locale=en&layout=compact" alt="priyapareek635" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=priyapareek635&show_icons=true&locale=en" alt="priyapareek635" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyapareek635&show_icons=true&locale=en" alt="priyapareek635" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=priyapareek635&" alt="priyapareek635" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyapareek635&" alt="priyapareek635" /></p>
