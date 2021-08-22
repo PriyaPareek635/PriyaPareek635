@@ -24,7 +24,7 @@
   </samp>
 </p><br>
 
-- 🌱 I’m currently learning **Angular and React**
+- 🌱 I’m currently learning **Angular and Vue**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PriyaPareek635](https://github.com/PriyaPareek635)
 
